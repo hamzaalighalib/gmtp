@@ -4,6 +4,10 @@
 
 GMTP is a custom HTTP-based communication protocol designed as an alternative to SMTP for email transmission. Developed by Hamza Ali Ghalib, GMTP simplifies email handling by offering a user-friendly installation process and no need for custom domain or DNS configuration. This library is written entirely in **PHP** and requires **cURL** for making HTTP requests, **MySQLi** for database interactions, and **RSA encryption** for secure email transmission.
 
+![Ghalib Screen Shot](https://github.com/user-attachments/assets/33f4d586-59d8-467d-8525-1ca8d893c30c)
+
+
+
 ## Project Structure
 
 The GMTP library is organized as follows:
@@ -34,6 +38,10 @@ Before you begin, ensure that your server meets the following requirements:
 - **RSA Keys**: Public and private keys for encryption/decryption.
 
 Make sure these are enabled and configured in your PHP installation to run GMTP successfully.
+
+## Full Email Screen
+![full eamil screen](https://github.com/user-attachments/assets/76c9ca4c-babd-4126-9ff4-28a22ec48fb9)
+
 
 ## Features
 
