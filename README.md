@@ -56,19 +56,21 @@ Make sure these are enabled and configured in your PHP installation to run GMTP 
 
 Follow these steps to install and use GMTP:
 
-1. **Download/Clone the Repository**:  
+1. **First Create Folder with `ghalib-mails` in root dir if not exsits...**:
+
+2.  **Download/Clone the Repository**:  
    Download or clone the GMTP repository into the root folder of your website (e.g., `/ghalib-mail`).
 
-2. **Navigate to the Installation URL**:  
+4. **Navigate to the Installation URL**:  
    Once you've placed the library in your root folder, visit the installation page by going to `site.com/ghalib-mail`.
 
-3. **Configure Database**:  
+5. **Configure Database**:  
    During installation, you will be prompted to provide your database configuration details (e.g., database name, username, and password). Make sure your server has **MySQLi** enabled.
 
-4. **Click to Install**:  
+6. **Click to Install**:  
    After entering your database details, click the "Install" button to complete the process. The system will automatically create the necessary database schema and routes for GMTP.
 
-5. **Finish Setup**:  
+7. **Finish Setup**:  
    After installation, the library will be ready to use!
 
 ## Encryption and Keys
